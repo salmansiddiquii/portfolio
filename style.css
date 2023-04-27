@@ -1,0 +1,98 @@
+html {
+    background-color: rgb(231, 187, 187);
+}
+
+h1 {
+    font-style: italic;
+    color: blueviolet
+}
+
+h4 {
+    font-style: oblique;
+    text-align: justify;
+}
+
+h3 {
+    color: blueviolet;
+    font-style: italic;
+}
+
+p {
+    font-style: inherit;
+}
+
+.main {
+    font-style: italic;
+    font-size: 16px;
+}
+
+#fck {
+    font-style: italic;
+    font-size: 16px;
+}
+
+.mn {
+    font-style: italic;
+    font-size: 16px;
+}
+
+#mb {
+    color: blue;
+    font-style: initial;
+    font-size: 20px;
+}
+
+.ms {
+    font-style: oblique;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#msd {
+    font-style: oblique;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    font-style: oblique;
+}
+
+
+h3 {
+    color: brown;
+}
+
+.main,
+#fck,
+.mn,
+th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.bd,
+{
+background-color: pink;
+}
+
+.gr {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.lk {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.po{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.mz{
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
